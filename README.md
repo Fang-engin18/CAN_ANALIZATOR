@@ -7,7 +7,8 @@
 
 <img width="704" height="863" alt="image" src="https://github.com/user-attachments/assets/a01e0ac0-240f-415a-8738-589d9537b6e4" />
 
-<img width="704" height="863" alt="image" src="https://github.com/user-attachments/assets/47fe0897-624d-4a17-bca7-0c49be26a8b4" />
+<img width="979" height="727" alt="image" src="https://github.com/user-attachments/assets/7e0b02a5-31d4-43f6-ab2f-bee101273706" />
+
 
 Knopka	SMD	B1, B2	2
 100nF	Керамический конденсатор. 1uF,10uF,106uF,33pF,100uF	C1, C2, C3, C11	4
